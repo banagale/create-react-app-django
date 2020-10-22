@@ -30,27 +30,27 @@ Helps Django-first projects bring a Create React App (CRA) into a templated view
 
 ## For Django Developers
 
-###    How many new API endpoints are needed to start?
+### How many new API endpoints are needed to start?
 
-   In many cases, zero. React developers can use Django's normal session authentication to hit DRF from the get go.
+In many cases, zero. React developers can use Django's normal session authentication to hit DRF from the get go.
 
-###    Will React eat my Django project?
+### Will React eat my Django project?
 
-   No, especially if you have an established Django project. But you may re-evaluate your allegiance to Django on your next one. 👀
+No, especially if you have an established Django project. But you may re-evaluate your allegiance to Django on your next one. 👀
 
 ## For React Developers
 
-###    Can I safely start developing a CRA before Django folks have done this integration?
+### Can I safely start developing a CRA before Django folks have done this integration?
 
-   Yes. You can get started and imagine your app running inside the Django project's existing template.
+Yes. You can get started and imagine your app running inside the Django project's existing template.
 
-###    Why are you making us work with Django?
+### Why are you making us work with Django?
 
-   For starters, this isn't a technology feud it is an alignment that lets your team focus on building a great product. But since you asked:
+For starters, this isn't a technology feud it is an alignment that lets your team focus on building a great product. But since you asked:
 
 *   Django is stable and has a lot to offer.
 *   Django's backend can offer you everything you normally get in React including [the possibility of GraphQL](https://github.com/graphql-python/graphene-django) on Django.
-*   If the team is great with Django, and you have a deadline, this lets everyone release faster. 
+*   If the team is great with Django, and you have a deadline, this lets everyone release faster.
 
 ### How do Django apps build out APIs?
 
@@ -58,7 +58,7 @@ Helps Django-first projects bring a Create React App (CRA) into a templated view
 
 ---
 
-**Draft Notes:** 
+**Draft Notes:**
 
 *   Hot-reload of _only_ your Create React App _inside_ a django template
 *   CRACO benefits
