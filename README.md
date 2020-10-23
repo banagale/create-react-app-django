@@ -13,7 +13,7 @@ Helps Django-first projects bring a Create React App (CRA) into a templated view
 ## All the Benefits of Create React App + CRACO
 
 *   Exceed expectations of React developers. Industry-standard React developer experience _inside_ your django project.
-*   Flexible customization of CRA. Sensibly tweak CRA to your requirements _without_ ejecting with \[CRACO\](https://github.com/gsoft-inc/craco).
+*   Flexible customization of CRA. Sensibly tweak CRA to your requirements _without_ ejecting with [CRACO](https://github.com/gsoft-inc/craco).
 *   Onboard yourself with the best tools. Pick up React by starting with the official React starter project in a workflow you already understand.
 
 # Django / React Philosophy
